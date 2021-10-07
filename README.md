@@ -4,7 +4,7 @@
 
 ### I'm [Samuel Jayasingh!](https://www.youtube.com/channel/UCljdD-g5f0xoCE6c97qHqsA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Linkedin](https://img.shields.io/badge/-Samuel%20Jayasingh-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/Samuel Jayasingh/)
+[![Linkedin](https://img.shields.io/badge/-Samuel%20Jayasingh-blue?style=flat&logo=linkedin&labelColor=blue)](https://in.linkedin.com/in/samuel-jayasingh-439532198?trk=public_profile_browsemap_profile-result-card_result-card_full-click)
 [![Gmail](https://img.shields.io/badge/-samueljayasingh77-red?style=flat&logo=gmail&labelColor=red)](mailto:samueljayasingh77@gmail.com)
 [![Blog](https://img.shields.io/badge/-Samuel%20Jayasingh-black?style=flat&logo=github&labelColor=black)](https://github.com/SamuelJayasingh)
 
