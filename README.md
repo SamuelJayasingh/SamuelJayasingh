@@ -9,7 +9,7 @@
 [![Blog](https://img.shields.io/badge/-Samuel%20Jayasingh-black?style=flat&logo=github&labelColor=black)](https://github.com/SamuelJayasingh)
 
 
-Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
+A Newbie AI Student who Welcomes you to his humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
 
 ## :computer: Technologies I'm Fascinated right now 
 * Artifical Intelligence
@@ -58,6 +58,6 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
 )
  
  -------
-Credits: [Samuel Jayasingh](https://github.com/MarikIshtar007)
+Credits: [Samuel Jayasingh](https://github.com/SamuelJayasingh)
 
-Last Edited on: 18/12/2020
+Last Edited on: 08/10/2021
