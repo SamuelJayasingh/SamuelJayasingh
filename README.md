@@ -4,10 +4,9 @@
 
 ### I'm [Samuel Jayasingh!](https://www.youtube.com/channel/UCljdD-g5f0xoCE6c97qHqsA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Samuel Jayasingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SamuelJayasingh)](https://www.linkedin.com/in/SamuelJayasingh) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
+[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)
+(https://www.linkedin.com/in/SamuelJayasingh) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
 
 Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
