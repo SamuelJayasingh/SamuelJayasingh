@@ -55,7 +55,7 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
   - :octocat: [My Resume](https://drive.google.com/file/d/1r12H21TzxERUdxrNbbqBRdv1hQOcU2ko/view?usp=sharing)
   - If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!!:grimacing: )
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)]
+![Haany's github stats](https://github-readme-stats.vercel.app/api?username=SamuelJayasingh)]
 )
  
  -------
