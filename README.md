@@ -2,7 +2,7 @@
 (43 sloc)  4.13 KB
    
 
-### I'm[Samuel Jayasingh!](https://www.youtube.com/channel/UCljdD-g5f0xoCE6c97qHqsA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### I'm [Samuel Jayasingh!](https://www.youtube.com/channel/UCljdD-g5f0xoCE6c97qHqsA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
@@ -27,22 +27,22 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
  ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Haany Ali'
-	current_edu = "St. Mary's Group of Institutions"
+ 	user = 'Samuel Jayasingh'
+	current_edu = "Rajalakshmi Institute of Technology"
 	hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
+				'Getting Demoted in VALORant',
+				'Streaming Movies',
+				'Listening Good Music'
 				'Being up all Night chasing that ONE BUG...'
 			]
 	
 	def getCity():
-		return Hyderabad_India()
+		return Chennai_India()
 	
 	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
+		LearnJ()
+		PlacementInGoogle()
+		FlexaGoodReadme.md()
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
@@ -55,7 +55,8 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
   - :octocat: [My Resume](https://drive.google.com/file/d/1r12H21TzxERUdxrNbbqBRdv1hQOcU2ko/view?usp=sharing)
   - If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!!:grimacing: )
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=MarikIshtar007&show_icons=true&hide=[%22issues%22])
+![Haany's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+)
  
  -------
 Credits: [MarikIshtar007](https://github.com/MarikIshtar007)
