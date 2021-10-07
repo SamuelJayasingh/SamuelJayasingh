@@ -4,10 +4,9 @@
 
 ### I'm [Samuel Jayasingh!](https://www.youtube.com/channel/UCljdD-g5f0xoCE6c97qHqsA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Linkedin](https://img.shields.io/badge/-Samuel%20Jayasingh-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/izzuddinahsanujunda/)
-[![Gmail](https://img.shields.io/badge/-samueljayasingh77-red?style=flat&logo=gmail&labelColor=red)](mailto:izzuddin.ahsanujunda@gmail.com)
-[![Blog](https://img.shields.io/badge/-iahsanujunda.github.io-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://iahsanujunda.github.io)
-
+[![Linkedin](https://img.shields.io/badge/-Samuel%20Jayasingh-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/Samuel Jayasingh/)
+[![Gmail](https://img.shields.io/badge/-samueljayasingh77-red?style=flat&logo=gmail&labelColor=red)](mailto:samueljayasingh77@gmail.com)
+[![Blog](https://img.shields.io/badge/-Samuel%20Jayasingh-black?style=flat&logo=github&labelColor=black)](https://github.com/SamuelJayasingh)
 
 
 Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
@@ -52,10 +51,10 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
  * Also, I've got a **Youtube Channel, [The Broke Coder](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)**. Be sure to check it out as I keep posting videos about a variety of things, ranging from *DIY Projects to Tutorials* about various Technologies.
  
 ## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1r12H21TzxERUdxrNbbqBRdv1hQOcU2ko/view?usp=sharing)
+
   - If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!!:grimacing: )
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=SamuelJayasingh)]
+![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=SamuelJayasingh)]
 )
  
  -------
