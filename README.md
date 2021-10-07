@@ -2,7 +2,7 @@
 (43 sloc)  4.13 KB
    
 
-### I'm,[Samuel Jayasingh!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### I'm[Samuel Jayasingh!](https://www.youtube.com/channel/UCljdD-g5f0xoCE6c97qHqsA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
