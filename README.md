@@ -51,7 +51,9 @@ A Newbie AI Student who Welcomes you to his humble abode in the Digital World.. 
  * I'm currently messing up my Laptop to learn about the🔭 development of Some Android and Linux Preview Bulids .
  * Also, I've got a **Youtube Channel, [Samuel Jayasingh](https://www.youtube.com/channel/UCljdD-g5f0xoCE6c97qHqsA)**. But I'm a Goddamn Lazy Guy who 
   Occasionally Post some videos.But Don't Lose Hope! Will Surely Get some Good Content Soon xd!
- *  
+ 
+ 
+## Other Stuff
  
  
  
