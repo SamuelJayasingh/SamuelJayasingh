@@ -2,7 +2,8 @@
 
    
 
-### I'm [Samuel Jayasingh!](https://www.youtube.com/channel/UCljdD-g5f0xoCE6c97qHqsA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### I'm [Samuel Jayasingh!](https://www.youtube.com/channel/UCljdD-g5f0xoCE6c97qHqsA)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin](https://img.shields.io/badge/-Samuel%20Jayasingh-blue?style=flat&logo=linkedin&labelColor=blue)](https://in.linkedin.com/in/samuel-jayasingh-439532198?trk=public_profile_browsemap_profile-result-card_result-card_full-click)
 [![Gmail](https://img.shields.io/badge/-samueljayasingh77-red?style=flat&logo=gmail&labelColor=red)](mailto:samueljayasingh77@gmail.com)
@@ -48,7 +49,9 @@ A Newbie AI Student who Welcomes you to his humble abode in the Digital World.. 
  
 ## Current Works
  * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
- * Also, I've got a **Youtube Channel, [The Broke Coder](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)**. Be sure to check it out as I keep posting videos about a variety of things, ranging from *DIY Projects to Tutorials* about various Technologies.
+ * Also, I've got a **Youtube Channel, [Samuel Jayasingh](https://www.youtube.com/channel/UCljdD-g5f0xoCE6c97qHqsA)**. But I'm a Goddamn Lazy Guy who 
+ * Occasionally Post some videos.But Don't Lose Hope! Will Surely Get some Good Content Soon xd!
+ *  
  
 ## Other Stuff
 
