@@ -10,7 +10,8 @@
 [![Blog](https://img.shields.io/badge/-Samuel%20Jayasingh-black?style=flat&logo=github&labelColor=black)](https://github.com/SamuelJayasingh)
 
 
-A Newbie AI Student who Welcomes you to his humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
+A Newbie AI Student or A Budding Software Developer and a Design Enthusiast who Welcomes you to his humble abode in the Digital World with A idea of Improving Himself and tries 
+to help others to grow and excel
 
 ## :computer: Technologies I'm Fascinated right now 
 * Artifical Intelligence
@@ -19,7 +20,7 @@ A Newbie AI Student who Welcomes you to his humble abode in the Digital World.. 
 * Frontend and Backend Web Development
 * DevOps
 
-
+]
 ## Currently in urge to Learn these Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
@@ -54,19 +55,12 @@ A Newbie AI Student who Welcomes you to his humble abode in the Digital World.. 
  
  
 ## About Me
--👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍, 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚘𝚛 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
-- 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 **𝙸𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜**
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/JayantGoel001/JayantGoel001/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜***
- 
- 
- 
- 
- 
- 
- 
- 
+
+ -👯I'm looking to collaborate on **Android,Machine Learning,Data Science,AI,Web Development**
+- 🤔I'm looking for help with my *Internet Connection**
+- 💬Ask me About [𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 here](https://github.com/SamuelJayasingh/Samuel-Jayasingh/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙!
+- 😄Pronouns : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : * There are 10 types of people in the world. Those who get Binary and those who don't.***
  
 ## Other Stuff
 
@@ -78,4 +72,4 @@ A Newbie AI Student who Welcomes you to his humble abode in the Digital World.. 
  -------
 Credits: [Samuel Jayasingh](https://github.com/SamuelJayasingh)
 
-Last Edited on: 08/10/2021
+Last Edited on: 09/10/2021
