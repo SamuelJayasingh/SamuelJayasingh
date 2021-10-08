@@ -57,11 +57,11 @@ to help others to grow and excel!
  
 ## About Me
 
- -👯I'm looking to collaborate on **Android,Machine Learning,Data Science,AI,Web Development**
+ -👯I'm looking to collaborate on *Android Development,Machine Learning,Data Science,Artifical Intelligence,Web Development*
 - 🤔I'm looking for help with my **Internet Connection**
-- 💬Ask me About Anything Here](https://github.com/SamuelJayasingh/Samuel-Jayasingh/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙!
+- 💬Ask me About [Anything Here](https://github.com/SamuelJayasingh/Samuel-Jayasingh/issues/1) Pleasure to Help you!
 - 😄Pronouns : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : ** There are 10 types of people in the world. Those who get Binary and those who don't.**
+- ⚡Fun fact : *There are 10 types of people in the world. Those who get Binary and those who don't.*
  
 ## Other Stuff
 
