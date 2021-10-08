@@ -50,7 +50,7 @@ A Newbie AI Student who Welcomes you to his humble abode in the Digital World.. 
 ## Current Works
  * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
  * Also, I've got a **Youtube Channel, [Samuel Jayasingh](https://www.youtube.com/channel/UCljdD-g5f0xoCE6c97qHqsA)**. But I'm a Goddamn Lazy Guy who 
- * Occasionally Post some videos.But Don't Lose Hope! Will Surely Get some Good Content Soon xd!
+  Occasionally Post some videos.But Don't Lose Hope! Will Surely Get some Good Content Soon xd!
  *  
  
 ## Other Stuff
