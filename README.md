@@ -13,6 +13,8 @@
 A Newbie AI Student or A Budding Software Developer and a Design Enthusiast who Welcomes you to his humble abode in the Digital World with A idea of Improving Himself and tries 
 to help others to grow and excel!
 
+![image](https://user-images.githubusercontent.com/80147472/136589569-3e7eb933-8028-4adb-a902-f5cd16629ca8.gif)
+
 ## :computer: Technologies I'm Fascinated right now 
 * Artifical Intelligence
 * Machine Learning
