@@ -42,7 +42,7 @@ to help others to grow and excel!
 		return Chennai_India()
 	
 	def Ambitions():
-		LearnJ()
+		Learn()
 		PlacementInGoogle()
 		FlexaGoodReadme.md()
 		# Assume 10 more awesome ambitions here  ;)
