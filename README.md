@@ -15,13 +15,13 @@ to help others to grow and excel!
 
 ![image](https://user-images.githubusercontent.com/80147472/136589569-3e7eb933-8028-4adb-a902-f5cd16629ca8.gif)
 
-## :computer: Technologies I'm Fascinated right now 
+## :computer: **Technologies I'm Fascinated right now** 
 * Artifical Intelligence
 * Machine Learning
 * Data Science
 * Frontend and Backend Web Development
 * DevOps
-* 
+ 
 ## Currently in urge to Learn these Programming Languages
 ![c-original](https://user-images.githubusercontent.com/80147472/136685434-629e1c77-9d6a-4c2a-b9da-358204bb2bae.png)
 ![cpp](https://user-images.githubusercontent.com/80147472/136685441-f6cc3abf-2411-45cb-8c99-e4993c9c9cd3.png)
