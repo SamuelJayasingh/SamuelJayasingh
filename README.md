@@ -27,7 +27,6 @@ to help others to grow and excel!
 ![c-original](https://user-images.githubusercontent.com/80147472/136685788-0a6e0de0-358c-41df-9c4a-c7cab063b033.png)
 ![cpp](https://user-images.githubusercontent.com/80147472/136685441-f6cc3abf-2411-45cb-8c99-e4993c9c9cd3.png)
 ![css](https://user-images.githubusercontent.com/80147472/136685448-3a4b02c0-970f-469d-b6c8-d01d05d9905d.png)
-![bootstrap](https://user-images.githubusercontent.com/80147472/136685450-6976ef84-fc39-42f9-b331-82a81c769e3d.png)
 ![python](https://user-images.githubusercontent.com/80147472/136685452-4f5d300d-ecb2-4276-8921-4a15aaa87fb4.png)
 ![html](https://user-images.githubusercontent.com/80147472/136685135-7f702723-15aa-4064-bf7e-5b8213cc0f1c.png)
 ![django](https://user-images.githubusercontent.com/80147472/136685175-1bca7039-1737-46c5-b31f-1ee7e73c00e1.png)
@@ -35,8 +34,6 @@ to help others to grow and excel!
 ![java](https://user-images.githubusercontent.com/80147472/136685202-795c8565-5121-40ca-87f0-347ef549e924.png)
 ![js](https://user-images.githubusercontent.com/80147472/136685211-84f310ee-2ec0-4618-8eae-a9fa90b25db6.png)
 ![nodejs](https://user-images.githubusercontent.com/80147472/136685217-3f764a5c-1594-44ed-8dfd-b03e166ffe4a.png)
-![php](https://user-images.githubusercontent.com/80147472/136685224-09767ebc-70eb-41b1-90bb-d90d85c762f1.png)
-![pycharm](https://user-images.githubusercontent.com/80147472/136685229-7a4288a6-516a-4d3f-8535-55ab370f8d3b.png)
 ![react](https://user-images.githubusercontent.com/80147472/136685241-a7c79289-dee4-476a-aa9b-2067985e9a3d.png)
 ![sql](https://user-images.githubusercontent.com/80147472/136685245-13ae85ac-92f6-4d6e-aa4e-9f1b77e5bdf7.png)
 
