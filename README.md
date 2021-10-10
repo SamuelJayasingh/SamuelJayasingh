@@ -24,7 +24,7 @@ to help others to grow and excel!
  
 ## **Currently in urge to Learn these Programming Languages**
 
-![c-original](https://user-images.githubusercontent.com/80147472/136685434-629e1c77-9d6a-4c2a-b9da-358204bb2bae.png)
+<![c-original](https://user-images.githubusercontent.com/80147472/136685434-629e1c77-9d6a-4c2a-b9da-358204bb2bae.png)>
 ![cpp](https://user-images.githubusercontent.com/80147472/136685441-f6cc3abf-2411-45cb-8c99-e4993c9c9cd3.png)
 ![css](https://user-images.githubusercontent.com/80147472/136685448-3a4b02c0-970f-469d-b6c8-d01d05d9905d.png)
 ![bootstrap](https://user-images.githubusercontent.com/80147472/136685450-6976ef84-fc39-42f9-b331-82a81c769e3d.png)
@@ -82,7 +82,6 @@ to help others to grow and excel!
   - If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!!:grimacing: )
 
 ![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=SamuelJayasingh)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelJayasingh)](https://github.com/SamuelJayasingh/github-readme-stats)
 
  -------
 Credits: [Samuel Jayasingh](https://github.com/SamuelJayasingh)
