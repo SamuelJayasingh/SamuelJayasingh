@@ -23,7 +23,7 @@ to help others to grow and excel!
 * DevOps
 * 
 ## Currently in urge to Learn these Programming Languages
-![c-original](https://user-images.githubusercontent.com/80147472/136685056-3804c784-6766-4bea-bdcb-1ce76e69cd84.png)width='30'/>
+![c-original](https://user-images.githubusercontent.com/80147472/136685056-3804c784-6766-4bea-bdcb-1ce76e69cd84.png)<width='30'/>
 ![cpp](https://user-images.githubusercontent.com/80147472/136685068-49e130d7-9fc3-4071-80b8-ba543df08a34.png)width='30'/>
 ![python](https://user-images.githubusercontent.com/80147472/136685102-6182014d-96d2-42bf-aad0-371331dccbef.png)width='30'/>
 ![css](https://user-images.githubusercontent.com/80147472/136685125-52dffa9b-60f4-4ddd-9d28-1177d723a688.png)width='30'/>
