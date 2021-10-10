@@ -35,7 +35,8 @@ to help others to grow and excel!
 ![react](https://user-images.githubusercontent.com/80147472/136685241-a7c79289-dee4-476a-aa9b-2067985e9a3d.png)
 ![sql](https://user-images.githubusercontent.com/80147472/136685245-13ae85ac-92f6-4d6e-aa4e-9f1b77e5bdf7.png)
 
- ## Who am I?
+## ** Who am I?**
+
  ```python
  class WhoAmI:
  	user = 'Samuel Jayasingh'
