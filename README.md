@@ -23,21 +23,21 @@ to help others to grow and excel!
 * DevOps
 * 
 ## Currently in urge to Learn these Programming Languages
-![c-original](https://user-images.githubusercontent.com/80147472/136685056-3804c784-6766-4bea-bdcb-1ce76e69cd84.png)
-![cpp](https://user-images.githubusercontent.com/80147472/136685068-49e130d7-9fc3-4071-80b8-ba543df08a34.png)
-![python](https://user-images.githubusercontent.com/80147472/136685102-6182014d-96d2-42bf-aad0-371331dccbef.png)
-![css](https://user-images.githubusercontent.com/80147472/136685125-52dffa9b-60f4-4ddd-9d28-1177d723a688.png)
-![html](https://user-images.githubusercontent.com/80147472/136685135-7f702723-15aa-4064-bf7e-5b8213cc0f1c.png)
-![dart](https://user-images.githubusercontent.com/80147472/136685141-0f5d3833-5521-4c2a-908d-7e728c22fbdc.png)
-![django](https://user-images.githubusercontent.com/80147472/136685175-1bca7039-1737-46c5-b31f-1ee7e73c00e1.png)
-![git](https://user-images.githubusercontent.com/80147472/136685197-2f285e47-b5c9-4c9f-b6da-24606ee2eb62.png)
-![java](https://user-images.githubusercontent.com/80147472/136685202-795c8565-5121-40ca-87f0-347ef549e924.png)
-![js](https://user-images.githubusercontent.com/80147472/136685211-84f310ee-2ec0-4618-8eae-a9fa90b25db6.png)
-![nodejs](https://user-images.githubusercontent.com/80147472/136685217-3f764a5c-1594-44ed-8dfd-b03e166ffe4a.png)
-![php](https://user-images.githubusercontent.com/80147472/136685224-09767ebc-70eb-41b1-90bb-d90d85c762f1.png)
-![pycharm](https://user-images.githubusercontent.com/80147472/136685229-7a4288a6-516a-4d3f-8535-55ab370f8d3b.png)
-![react](https://user-images.githubusercontent.com/80147472/136685241-a7c79289-dee4-476a-aa9b-2067985e9a3d.png)
-![sql](https://user-images.githubusercontent.com/80147472/136685245-13ae85ac-92f6-4d6e-aa4e-9f1b77e5bdf7.png)
+![c-original](https://user-images.githubusercontent.com/80147472/136685056-3804c784-6766-4bea-bdcb-1ce76e69cd84.png)width='30'/>
+![cpp](https://user-images.githubusercontent.com/80147472/136685068-49e130d7-9fc3-4071-80b8-ba543df08a34.png)width='30'/>
+![python](https://user-images.githubusercontent.com/80147472/136685102-6182014d-96d2-42bf-aad0-371331dccbef.png)width='30'/>
+![css](https://user-images.githubusercontent.com/80147472/136685125-52dffa9b-60f4-4ddd-9d28-1177d723a688.png)width='30'/>
+![html](https://user-images.githubusercontent.com/80147472/136685135-7f702723-15aa-4064-bf7e-5b8213cc0f1c.png)width='30'/>
+![dart](https://user-images.githubusercontent.com/80147472/136685141-0f5d3833-5521-4c2a-908d-7e728c22fbdc.png)width='30'/>
+![django](https://user-images.githubusercontent.com/80147472/136685175-1bca7039-1737-46c5-b31f-1ee7e73c00e1.png)width='30'/>
+![git](https://user-images.githubusercontent.com/80147472/136685197-2f285e47-b5c9-4c9f-b6da-24606ee2eb62.png)width='30'/>
+![java](https://user-images.githubusercontent.com/80147472/136685202-795c8565-5121-40ca-87f0-347ef549e924.png)width='30'/>
+![js](https://user-images.githubusercontent.com/80147472/136685211-84f310ee-2ec0-4618-8eae-a9fa90b25db6.png)width='30'/>
+![nodejs](https://user-images.githubusercontent.com/80147472/136685217-3f764a5c-1594-44ed-8dfd-b03e166ffe4a.png)width='30'/>
+![php](https://user-images.githubusercontent.com/80147472/136685224-09767ebc-70eb-41b1-90bb-d90d85c762f1.png)width='30'/>
+![pycharm](https://user-images.githubusercontent.com/80147472/136685229-7a4288a6-516a-4d3f-8535-55ab370f8d3b.png)width='30'/>
+![react](https://user-images.githubusercontent.com/80147472/136685241-a7c79289-dee4-476a-aa9b-2067985e9a3d.png)width='30'/>
+![sql](https://user-images.githubusercontent.com/80147472/136685245-13ae85ac-92f6-4d6e-aa4e-9f1b77e5bdf7.png)width='30'/>
 
  ## Who am I?
  ```python
