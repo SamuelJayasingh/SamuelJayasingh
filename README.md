@@ -31,7 +31,6 @@ to help others to grow and excel!
 ![dart](https://user-images.githubusercontent.com/80147472/136685141-0f5d3833-5521-4c2a-908d-7e728c22fbdc.png)
 ![bootstrap](https://user-images.githubusercontent.com/80147472/136685152-b7a874b4-6ebb-44c1-a31b-347ca64bb899.png)
 ![django](https://user-images.githubusercontent.com/80147472/136685175-1bca7039-1737-46c5-b31f-1ee7e73c00e1.png)
-![flutter-logo](https://user-images.githubusercontent.com/80147472/136685191-a80ec0bd-4a51-4ba0-b92e-c2b055f3b380.png)
 ![git](https://user-images.githubusercontent.com/80147472/136685197-2f285e47-b5c9-4c9f-b6da-24606ee2eb62.png)
 ![java](https://user-images.githubusercontent.com/80147472/136685202-795c8565-5121-40ca-87f0-347ef549e924.png)
 ![js](https://user-images.githubusercontent.com/80147472/136685211-84f310ee-2ec0-4618-8eae-a9fa90b25db6.png)
