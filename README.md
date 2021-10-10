@@ -23,10 +23,11 @@ to help others to grow and excel!
 * DevOps
 * 
 ## Currently in urge to Learn these Programming Languages
-<img src = (https://user-images.githubusercontent.com/80147472/136685056-3804c784-6766-4bea-bdcb-1ce76e69cd84.png)
-<img src = (https://user-images.githubusercontent.com/80147472/136685068-49e130d7-9fc3-4071-80b8-ba543df08a34.png)
-<img src = (https://user-images.githubusercontent.com/80147472/136685102-6182014d-96d2-42bf-aad0-371331dccbef.png)
-<img src =(https://user-images.githubusercontent.com/80147472/136685125-52dffa9b-60f4-4ddd-9d28-1177d723a688.png)
+![c-original](https://user-images.githubusercontent.com/80147472/136685434-629e1c77-9d6a-4c2a-b9da-358204bb2bae.png)
+![cpp](https://user-images.githubusercontent.com/80147472/136685441-f6cc3abf-2411-45cb-8c99-e4993c9c9cd3.png)
+![css](https://user-images.githubusercontent.com/80147472/136685448-3a4b02c0-970f-469d-b6c8-d01d05d9905d.png)
+![bootstrap](https://user-images.githubusercontent.com/80147472/136685450-6976ef84-fc39-42f9-b331-82a81c769e3d.png)
+![python](https://user-images.githubusercontent.com/80147472/136685452-4f5d300d-ecb2-4276-8921-4a15aaa87fb4.png)
 ![html](https://user-images.githubusercontent.com/80147472/136685135-7f702723-15aa-4064-bf7e-5b8213cc0f1c.png)
 ![dart](https://user-images.githubusercontent.com/80147472/136685141-0f5d3833-5521-4c2a-908d-7e728c22fbdc.png)
 ![django](https://user-images.githubusercontent.com/80147472/136685175-1bca7039-1737-46c5-b31f-1ee7e73c00e1.png)
