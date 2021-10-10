@@ -29,7 +29,6 @@ to help others to grow and excel!
 ![bootstrap](https://user-images.githubusercontent.com/80147472/136685450-6976ef84-fc39-42f9-b331-82a81c769e3d.png)
 ![python](https://user-images.githubusercontent.com/80147472/136685452-4f5d300d-ecb2-4276-8921-4a15aaa87fb4.png)
 ![html](https://user-images.githubusercontent.com/80147472/136685135-7f702723-15aa-4064-bf7e-5b8213cc0f1c.png)
-![dart](https://user-images.githubusercontent.com/80147472/136685141-0f5d3833-5521-4c2a-908d-7e728c22fbdc.png)
 ![django](https://user-images.githubusercontent.com/80147472/136685175-1bca7039-1737-46c5-b31f-1ee7e73c00e1.png)
 ![git](https://user-images.githubusercontent.com/80147472/136685197-2f285e47-b5c9-4c9f-b6da-24606ee2eb62.png)
 ![java](https://user-images.githubusercontent.com/80147472/136685202-795c8565-5121-40ca-87f0-347ef549e924.png)
