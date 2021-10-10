@@ -22,7 +22,9 @@ to help others to grow and excel!
 * Frontend and Backend Web Development
 * DevOps
 
-Currently in urge to Learn these Programming Languages
+##Currently in urge to Learn these Programming Languages
+![c![cpp](https://user-images.githubusercontent.com/80147472/136684884-a5b35b8f-1609-44ab-a931-4847859624f3.png)
+-original](https://user-images.githubusercontent.com/80147472/136684869-65a1e061-9ba2-4613-ad58-db3e92e0fb5d.png)
 
 
  ## Who am I?
