@@ -82,4 +82,4 @@ to help others to grow and excel!
 Credits: [Samuel Jayasingh](https://github.com/SamuelJayasingh)
 
 Last Edited on: 10/10/2021
-theme: Architect
+theme: minima
