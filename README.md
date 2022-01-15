@@ -24,22 +24,19 @@ to help others to grow and excel!
  
 ## **Currently in urge to Learn these Programming Languages**
 
-![c-original](https://user-images.githubusercontent.com/80147472/136685788-0a6e0de0-358c-41df-9c4a-c7cab063b033.png)
-![cpp](https://user-images.githubusercontent.com/80147472/136685441-f6cc3abf-2411-45cb-8c99-e4993c9c9cd3.png)
-![css](https://user-images.githubusercontent.com/80147472/136685448-3a4b02c0-970f-469d-b6c8-d01d05d9905d.png)
-![python](https://user-images.githubusercontent.com/80147472/136685452-4f5d300d-ecb2-4276-8921-4a15aaa87fb4.png)
-![html](https://user-images.githubusercontent.com/80147472/136685135-7f702723-15aa-4064-bf7e-5b8213cc0f1c.png)
-![git](https://user-images.githubusercontent.com/80147472/136685197-2f285e47-b5c9-4c9f-b6da-24606ee2eb62.png)
-![js](https://user-images.githubusercontent.com/80147472/136685211-84f310ee-2ec0-4618-8eae-a9fa90b25db6.png)
-![react](https://user-images.githubusercontent.com/80147472/136685241-a7c79289-dee4-476a-aa9b-2067985e9a3d.png)
-![sql](https://user-images.githubusercontent.com/80147472/136685245-13ae85ac-92f6-4d6e-aa4e-9f1b77e5bdf7.png)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/-Electron-000000?style=flat&logo=Electron&logoColor=FFFFFF)
+
 
 ## *Who am I?*
 
