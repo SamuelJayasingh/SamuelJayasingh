@@ -81,7 +81,8 @@ to help others to grow and excel!
   - If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!!:grimacing: )
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=SamuelJayasingh&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
-Credits:  [Anything Here](https://github.com/SamuelJayasingh/Samuel-Jayasingh/issues/1) 
+
+ 💬Ask me About [Anything Here](https://github.com/SamuelJayasingh/Samuel-Jayasingh/issues/1) Pleasure to Help you!
 ![Samuel Jayasingh](https://github.com/SamuelJayasingh)
 
 Last Edited on: 10/10/2021
