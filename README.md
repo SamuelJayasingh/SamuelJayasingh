@@ -33,6 +33,13 @@ to help others to grow and excel!
 ![js](https://user-images.githubusercontent.com/80147472/136685211-84f310ee-2ec0-4618-8eae-a9fa90b25db6.png)
 ![react](https://user-images.githubusercontent.com/80147472/136685241-a7c79289-dee4-476a-aa9b-2067985e9a3d.png)
 ![sql](https://user-images.githubusercontent.com/80147472/136685245-13ae85ac-92f6-4d6e-aa4e-9f1b77e5bdf7.png)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 
 ## *Who am I?*
 
