@@ -22,7 +22,7 @@ to help others to grow and excel!
 * Frontend and Backend Web Development
 * DevOps
  
-## **Currently in urge to Learn these Programming Languages**
+## **Currently in progress learning about these things**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
