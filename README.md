@@ -8,7 +8,7 @@
 [![Linkedin](https://img.shields.io/badge/-Samuel%20Jayasingh-blue?style=flat&logo=linkedin&labelColor=blue)](https://in.linkedin.com/in/samuel-jayasingh-439532198?trk=public_profile_browsemap_profile-result-card_result-card_full-click)
 [![Gmail](https://img.shields.io/badge/-samueljayasingh77-red?style=flat&logo=gmail&labelColor=red)](mailto:samueljayasingh77@gmail.com)
 [![Blog](https://img.shields.io/badge/-Samuel%20Jayasingh-black?style=flat&logo=github&labelColor=black)](https://github.com/SamuelJayasingh)
-
+<img src="https://komarev.com/ghpvc/?username=SamuelJayasingh" alt="SamuelJayasingh" />
 
 A Newbie AI Student or A Budding Software Developer and a Design Enthusiast who Welcomes you to his humble abode in the Digital World with A idea of Improving Himself and tries 
 to help others to grow and excel!
@@ -20,7 +20,7 @@ to help others to grow and excel!
 * Machine Learning
 * Data Science
 * Frontend and Backend Web Development
-* DevOps
+* Cloud Computing
  
 ## **Currently in progress learning about these things**
 
@@ -80,7 +80,7 @@ to help others to grow and excel!
 
   - If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!!:grimacing: )
 
-## My GitHub Stats:
+## My GitHub Stats
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=SamuelJayasingh&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
 
 Credits: [Samuel Jayasingh](https://github.com/SamuelJayasingh)
