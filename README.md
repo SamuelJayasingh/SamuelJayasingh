@@ -83,7 +83,7 @@ to help others to grow and excel!
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=SamuelJayasingh&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
 
  💬Ask me About [Anything Here](https://github.com/SamuelJayasingh/Samuel-Jayasingh/issues/1) Pleasure to Help you!
-![Samuel Jayasingh](https://github.com/SamuelJayasingh)
+(https://github.com/SamuelJayasingh)
 
 Last Edited on: 10/10/2021
 
