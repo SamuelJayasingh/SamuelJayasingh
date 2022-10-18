@@ -65,7 +65,9 @@ to help others to grow and excel!
  * I'm currently messing up my Laptop to learn about the🔭 development of Some Android and Linux Preview Bulids .
  * Also, I've got a **Youtube Channel, [Samuel Jayasingh](https://www.youtube.com/channel/UCljdD-g5f0xoCE6c97qHqsA)**. But I'm a Goddamn Lazy Guy who 
   Occasionally Post some videos.But Don't Lose Hope! Will Surely Get some Good Content Soon xd!
- 
+  * Currently working on Website Creation , Managing my Personal Portfolio
+  * Running tests on Google Cloud Platform
+
  
 ## About Me
 
@@ -81,9 +83,8 @@ to help others to grow and excel!
 
 ![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=SamuelJayasingh&show_icons=true&hide=[%22issues%22])
 
-[![@samueljayasingh's Holopin board](https://holopin.me/samueljayasingh)](https://holopin.io/@samueljayasingh)
  
 Credits: [Samuel Jayasingh](https://github.com/SamuelJayasingh)
 
-Last Edited on: 16/01/2022
+Last Edited on: 18/10/2022
 
