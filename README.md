@@ -80,6 +80,8 @@ to help others to grow and excel!
   - If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!! 😬 )
 
 ![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=SamuelJayasingh&show_icons=true&hide=[%22issues%22])
+
+[![@samueljayasingh's Holopin board](https://holopin.me/samueljayasingh)](https://holopin.io/@samueljayasingh)
  
 Credits: [Samuel Jayasingh](https://github.com/SamuelJayasingh)
 
