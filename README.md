@@ -76,7 +76,11 @@ to help others to grow and excel!
 - 💬Ask me About [Anything Here](https://github.com/SamuelJayasingh/Samuel-Jayasingh/issues/1) Pleasure to Help you!
 - 😄Pronouns : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
 - ⚡Fun fact : *There are 10 types of people in the world. Those who get Binary and those who don't.*
- 
+
+## Badges
+
+[![@samueljayasingh's Holopin board](https://holopin.me/samueljayasingh)](https://holopin.io/@samueljayasingh)
+
 ## Other Stuff
 
   - If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!! 😬 )
@@ -86,5 +90,5 @@ to help others to grow and excel!
  
 Credits: [Samuel Jayasingh](https://github.com/SamuelJayasingh)
 
-Last Edited on: 18/10/2022
+Last Edited on: 30/10/2022
 
